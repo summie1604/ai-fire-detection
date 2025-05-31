@@ -8,8 +8,7 @@ const char* ssid = "Myhotspot";
 const char* password = "12345678";
 
 const String FIREBASE_HOST = "https://use-this-one-70e96-default-rtdb.asia-southeast1.firebasedatabase.app";
-const String FIREBASE_AUTH = "AIzaSyCErSd5aa9gRKzFKkyoPVxu70021FHqQqU";
-
+const String FIREBASE_AUTH = "YOUR_FIREBASE_AUTH"
 bool stopUploads = false;
 
 void setup() {
